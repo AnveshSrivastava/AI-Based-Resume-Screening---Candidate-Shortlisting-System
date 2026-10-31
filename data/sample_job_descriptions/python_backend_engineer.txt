@@ -1,0 +1,21 @@
+Job Title: Senior Python Backend Engineer
+Company: CloudScale Solutions
+Location: Bangalore, India / Remote
+
+About the Role:
+We are seeking an experienced Backend Engineer to design, build, and optimize our high-throughput cloud microservices. You will collaborate with cross-functional teams to architect resilient distributed systems and RESTful APIs handling millions of daily requests.
+
+REQUIRED QUALIFICATIONS:
+- 3+ years of professional software development experience in backend engineering.
+- Strong proficiency in Python, FastAPI, and asynchronous programming.
+- Deep hands-on experience designing and optimizing relational databases with PostgreSQL.
+- Solid understanding of REST APIs and microservices architecture.
+- Hands-on experience with containerization using Docker.
+- Bachelor's degree (B.Tech / B.E. / BCA / B.S.) in Computer Science or related technical discipline.
+
+PREFERRED QUALIFICATIONS:
+- Experience deploying and orchestrating workloads on AWS cloud infrastructure.
+- Practical experience with Kubernetes cluster management.
+- Hands-on knowledge of CI/CD automation pipelines (GitHub Actions, GitLab CI).
+- Experience with Redis caching and Apache Kafka message queues.
+- Familiarity with unit and integration testing using PyTest.

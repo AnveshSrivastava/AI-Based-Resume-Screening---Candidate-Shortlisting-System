@@ -1,0 +1,4 @@
+# Optional dependencies for advanced semantic search & scanned PDF OCR
+sentence-transformers>=3.0.0
+pytesseract>=0.3.10
+pdf2image>=1.17.0

@@ -1,0 +1,20 @@
+Job Title: Business Data Analyst
+Company: MetricPulse Analytics
+Location: Mumbai, India / Hybrid
+
+About the Role:
+MetricPulse is hiring a Data Analyst to transform complex datasets into actionable business intelligence and dashboards. You will work directly with product and leadership teams to analyze key metrics, perform statistical modeling, and automate reporting pipelines.
+
+REQUIRED QUALIFICATIONS:
+- 1-3 years of proven experience in data analysis, business intelligence, or reporting.
+- Advanced proficiency in SQL for data extraction, joins, and window functions.
+- Strong practical skills in Python data manipulation using Pandas and NumPy.
+- Extensive experience designing executive dashboards and data visualizations in Tableau.
+- Bachelor's degree (B.Tech / B.E. / BCA / B.Sc / B.Com) in quantitative field.
+
+PREFERRED QUALIFICATIONS:
+- Familiarity with Power BI and alternate dashboarding tools.
+- Understanding of applied statistics and hypothesis testing.
+- Hands-on experience with cloud data warehouses like Google BigQuery or Snowflake.
+- Basic understanding of Machine Learning and predictive analytics with Scikit-learn.
+- Strong communication and business storytelling skills.

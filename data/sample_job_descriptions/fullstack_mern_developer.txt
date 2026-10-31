@@ -1,0 +1,20 @@
+Job Title: Full-Stack MERN Developer
+Company: NextGen Interactive
+Location: Hyderabad, India / Hybrid
+
+About the Role:
+We are looking for a versatile Full-Stack Engineer to build intuitive, high-performance web applications using the modern MERN stack. You will take ownership of features from front-end UI state management down to back-end APIs and document databases.
+
+REQUIRED QUALIFICATIONS:
+- 2+ years of professional full-stack web development experience.
+- Strong proficiency in modern JavaScript (ES6+), React, and responsive frontend design.
+- Hands-on experience developing RESTful services with Node.js and Express.
+- Solid experience modeling and querying NoSQL databases with MongoDB.
+- Bachelor's degree (B.Tech / B.E. / BCA / B.Sc) in Computer Science, Information Technology, or equivalent.
+
+PREFERRED QUALIFICATIONS:
+- Proficiency with TypeScript and state management using Redux Toolkit.
+- Experience with modern React frameworks like Next.js.
+- Familiarity with Tailwind CSS and modern CSS utility libraries.
+- Experience writing automated tests using Jest or Cypress.
+- Hands-on experience with Docker and basic cloud deployment (AWS or GCP).
